@@ -1,4 +1,14 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/bhartman2/bhartman2.r-universe.dev
 	branch = HEAD
+[submodule "mbadtools"]
+	path = mbadtools
+	url = https://github.com/bhartman2/mbadtools
+[submodule "pdftools"]
+	path = pdftools
+	url = https://github.com/ropensci/pdftools
+[submodule "stringdist"]
+	path = stringdist
+	url = https://github.com/markvanderloo/stringdist
+	subdir = pkg
