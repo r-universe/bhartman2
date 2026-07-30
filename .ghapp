@@ -1,0 +1,10 @@
+{
+  "id": 150137962,
+  "created_at": "2026-07-30T17:24:27.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["bhartman2.r-universe.dev"]
+}
